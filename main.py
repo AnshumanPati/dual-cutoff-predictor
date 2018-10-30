@@ -1,5 +1,14 @@
 import csv
-import Tkinter
+
+from tkinter import *
+ 
+window = Tk()
+ 
+window.title("Welcome to cutoff predictor app")
+ 
+window.mainloop()
+
+
 
 FILE="file.csv"
 FILE_2="alloted.csv"
