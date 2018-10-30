@@ -6,8 +6,12 @@ window = Tk()
  
 window.title("Welcome to cutoff predictor app")
  
+ 
+lbl = Label(window, text="Hello")
+ 
+lbl.grid(column=0, row=0)
+ 
 window.mainloop()
-
 
 
 FILE="file.csv"
