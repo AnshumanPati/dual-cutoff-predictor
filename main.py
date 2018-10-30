@@ -1,5 +1,6 @@
 import csv
 
+
 FILE="file.csv"
 FILE_2="alloted.csv"
 branch = {'1':7,'2':8,'3':13,'4':10,'7':22,'8':5,'A':13,'B':5}
@@ -59,3 +60,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#documentation of the code
